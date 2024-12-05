@@ -1,0 +1,5 @@
+speedtest
+pandas
+streamlit
+twilio
+numpy
