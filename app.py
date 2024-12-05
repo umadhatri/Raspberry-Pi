@@ -7,10 +7,10 @@ from twilio.rest import Client
 import numpy as np
 
 # Twilio credentials
-account_sid = "AC42aef6c49a5f9e9407b33a0b80f871da"
-auth_token = "5d4ce115483faa201f8cc864ddabe762"
-twilio_phone_number = "+16814484634"
-recipient_phone_number = "+919100269265"
+account_sid = "Twilio_account_sid"
+auth_token = "auth_token_here"
+twilio_phone_number = "twilio_number_here"
+recipient_phone_number = "your_number_here"
 
 # Twilio client for sending SMS
 def send_sms_alert(message):
